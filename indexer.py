@@ -49,5 +49,5 @@ def build_index(chunks: list[str]):
     
 if __name__ == "__main__":
     os.makedirs('storage', exist_ok=True)
-    load_chunks(CHUNKS_PATH)
+    chunks = load_chunks(CHUNKS_PATH)
     build_index(chunks)

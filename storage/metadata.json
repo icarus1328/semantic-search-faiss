@@ -1,0 +1,82 @@
+{
+  "0": {
+    "text": "Formula 1 is the highest class of international racing for single-seater formula racing cars.",
+    "chunk_id": 0
+  },
+  "1": {
+    "text": "Drivers compete in Grand Prix races held on circuits and public roads around the world.",
+    "chunk_id": 1
+  },
+  "2": {
+    "text": "Teams design and build their own cars within strict technical regulations set by the FIA.",
+    "chunk_id": 2
+  },
+  "3": {
+    "text": "Aerodynamics play a crucial role in maximizing downforce and minimizing drag in F1 cars.",
+    "chunk_id": 3
+  },
+  "4": {
+    "text": "Pit stops are strategic moments where teams change tires and make adjustments in seconds.",
+    "chunk_id": 4
+  },
+  "5": {
+    "text": "Tire compounds affect grip and durability, influencing race strategies significantly.",
+    "chunk_id": 5
+  },
+  "6": {
+    "text": "The DRS system allows drivers to reduce drag and increase overtaking opportunities.",
+    "chunk_id": 6
+  },
+  "7": {
+    "text": "Formula 1 cars use hybrid power units combining internal combustion engines and electric motors.",
+    "chunk_id": 7
+  },
+  "8": {
+    "text": "Qualifying sessions determine the starting grid positions for the race.",
+    "chunk_id": 8
+  },
+  "9": {
+    "text": "The Constructors' Championship is awarded to the team with the most points over a season.",
+    "chunk_id": 9
+  },
+  "10": {
+    "text": "The Drivers' Championship is awarded to the driver who scores the most points.",
+    "chunk_id": 10
+  },
+  "11": {
+    "text": "Safety measures like the Halo device protect drivers from debris and impacts.",
+    "chunk_id": 11
+  },
+  "12": {
+    "text": "Weather conditions can dramatically influence race outcomes and tire strategies.",
+    "chunk_id": 12
+  },
+  "13": {
+    "text": "Street circuits like Monaco present unique challenges compared to permanent tracks.",
+    "chunk_id": 13
+  },
+  "14": {
+    "text": "Telemetry data helps teams analyze performance and optimize car setup in real time.",
+    "chunk_id": 14
+  },
+  "15": {
+    "text": "Slipstreaming allows cars to gain speed by following closely behind another car.",
+    "chunk_id": 15
+  },
+  "16": {
+    "text": "Race engineers communicate with drivers to adjust strategies during the race.",
+    "chunk_id": 16
+  },
+  "17": {
+    "text": "Red flags are used to stop races in case of dangerous conditions or accidents.",
+    "chunk_id": 17
+  },
+  "18": {
+    "text": "F1 cars can accelerate from 0 to 100 km/h in around 2.5 seconds.",
+    "chunk_id": 18
+  },
+  "19": {
+    "text": "Energy recovery systems store and reuse energy generated during braking.",
+    "chunk_id": 19
+  }
+}

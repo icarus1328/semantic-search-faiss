@@ -38,7 +38,7 @@ class Retriever:
             if idx == -1:
                 continue
             results.append({
-                "text": self.metadata[str(idx)["text"]],
+                "text": self.metadata[str(idx)]["text"],
                 "score": float(score),
                 "id": idx
             })
